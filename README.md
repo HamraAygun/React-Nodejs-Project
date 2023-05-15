@@ -7,7 +7,7 @@ Projemde kullandığım paketler;
 	
 şeklindedir.
 
-Kullanıcı bilgileri localhost veritabanında tutulmaktadır. Veritabanında 5 adet tablo bulunuyor ("personal_information", "files", "education", "contact"). Kullanıcı kayıt bilgileri "account" adlı tabloda tutulmaktadır. Kullanıcı Apply sekmesinden başvuru yaptığında bilgiler 4 ayrı tabloya gönderilmektedir. Kullanıcı başvurusunu Profile sekmesinden görüntüleyebilir ve güncelleyebilir. Ek olarak Profile sekmesinde kullanıcının şifresini değiştirebileceği bir sekme bulunmaktadır.
+Kullanıcı bilgileri localhost veritabanında tutulmaktadır. Veritabanında 5 adet tablo bulunuyor ("personal_information", "files", "education", "contact", "account"). Kullanıcı kayıt bilgileri "account" adlı tabloda tutulmaktadır. Kullanıcı Apply sekmesinden başvuru yaptığında bilgiler 4 ayrı tabloya gönderilmektedir. Kullanıcı başvurusunu Profile sekmesinden görüntüleyebilir ve güncelleyebilir. Ek olarak Profile sekmesinde kullanıcının şifresini değiştirebileceği bir sekme bulunmaktadır.
 
 ![Home_app](https://github.com/HamraAygun/React-Nodejs-Project/assets/121159398/51cd87d9-8216-4bd0-87e9-dd2387f4e03f)
 ![Signup](https://github.com/HamraAygun/React-Nodejs-Project/assets/121159398/d041639a-3e53-4942-9ca6-c6278fc2bae2)
